@@ -1,0 +1,1 @@
+Este projeto de aplicação em C# foi criado como parte do aprendizado sobre a criação de bibliotecas NuGet e arquivos DLL. A principal ênfase deste projeto está na compreensão e na prática da criação de bibliotecas reutilizáveis, empacotando-as como pacotes NuGet para fácil distribuição e implementação em outros projetos.
